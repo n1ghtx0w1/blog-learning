@@ -1,8 +1,6 @@
 
 ## Getting Started With Github and Jekyll THemes
  
- ---
-
 **How I Began**
  
 I was looking to create a blog style web page, and get accustomed to using Github more. I started with a simple “github blog” google search, and here we are. I figured someone may want some greater detail about this adventure.
